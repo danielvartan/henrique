@@ -7,6 +7,8 @@
 
 🌳🌱🍂🌦️💧🌍🌾🌿🌧️🪵🪴🌱🌡️🌻
 
-This repository contains the initial work on a percolation model built using NetLogo.
+This repository contains the initial work on a percolation model built using [NetLogo](https://ccl.northwestern.edu/netlogo/).
 
-**Percolation** in the context of trees and soil refers to how water moves through the soil and reaches the roots. When enough water accumulates and finds connected pathways through the soil, it can fully penetrate the system, nourishing the trees. This model explores how water infiltrates and spreads within a forest, simulating the transition from dry, isolated patches of soil to a fully hydrated, connected environment.
+[**Percolation**](https://en.wikipedia.org/wiki/Percolation) in the context of trees and soil refers to how water moves through the soil and reaches the roots. When enough water accumulates and finds connected pathways through the soil, it can fully penetrate the system, nourishing the trees. This model explores how water infiltrates and spreads within a forest, simulating the transition from dry, isolated patches of soil to a fully hydrated, connected environment.
+
+![henrique](https://github.com/user-attachments/assets/3ed85817-7ae7-4e72-81b8-09d899e4b115)
